@@ -1,6 +1,6 @@
 # waytiles
 
-> High-contrast KDE tiling dotfiles. Dragon theme by default — fully themeable.
+> High-contrast KDE tiling dotfiles. Dragon theme by default - fully themeable.
 
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/5efa2f2e-3e2c-4647-be06-75754b288daf" />
 
@@ -34,13 +34,13 @@ bash scripts/theme-switch.sh catppuccin   # mocha — soft dark purple
 bash scripts/theme-switch.sh gruvbox      # warm earth tones
 ```
 
-Or edit `kitty/kitty.conf` manually — change the `include` line:
+Or edit `kitty/kitty.conf` manually - change the `include` line:
 
 ```
 include ../themes/dragon.conf
 ```
 
-Hot-reload with `Ctrl+Shift+F5` in Kitty — no restart needed.
+Hot-reload with `Ctrl+Shift+F5` in Kitty - no restart needed.
 
 ## Custom colors
 
